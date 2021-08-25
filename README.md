@@ -12,19 +12,20 @@ was working like a photographer in a cruse ship.. When pandemic started I change
 ## :star: Languages and Tools:
 
 <p>
-  <code><img width="12%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/react.png"></code>
-  <code><img width="12%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/redux.png"></code>
-  <code><img width="12%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/javascript.png"></code>
-  <code><img width="12%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/reactNative.png"></code>
-  <code><img width="12%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/html.png"></code>
-  <code><img width="12%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/css.png"></code>
+  <code><img width="13%" height="40px" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/react.png"></code>
+  <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/redux.png"></code>
+  <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/javascript.png"></code>
+  <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/reactNative.png"></code>
+  <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/github.jpg"></code>
+  <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/nodejs.png"></code>
+
   <br />
-  <code><img width="12%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/sequelize.png"></code>
-  <code><img width="12%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/postgresql.png"></code>
-  <code><img width="12%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/nodejs.png"></code>
-  <code><img width="12%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/express.jpeg"></code>
-  <code><img width="12%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/github.jpg"></code>
-  <code><img width="12%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/bootstrap.png"></code>
+  <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/sequelize.png"></code>
+  <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/postgresql.png"></code>
+  <code><img width="13%" height="40px" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/css.png"></code>
+  <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/express.jpeg"></code>
+  <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/html.png"></code>
+  <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/bootstrap.png"></code>
   <br />
 </p>
 
@@ -32,10 +33,9 @@ was working like a photographer in a cruse ship.. When pandemic started I change
 
 ## :pushpin: My proyects
 
-
 ## :paperclip: How to reach me:
+
 <span >
 <a href="https://www.linkedin.com/in/lina-mikaela-gutierrez-arribas/" ><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/linkedin.png"> &nbsp;
 <a href="mailto:mikaelagutierrezarribas@gmail.com" ><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/gmail.png">
 </span>
-
