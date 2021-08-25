@@ -9,19 +9,19 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 ## :star: Languages and Tools:
 
 <p>
-  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/reactjs.svg"></code>
-  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/redux.svg"></code>
-  <code><img width="10%" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
-  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/react-native.svg"></code>
-  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/html.svg"></code>
-  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/css.svg"></code>
+  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/react.png"></code>
+  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/redux.png"></code>
+  <code><img width="10%" src="https://github.com/WanCirone/wancirone/blob/main/logos/images/javascript.png"></code>
+  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/reactNative.png"></code>
+  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/html.png"></code>
+  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/css.png"></code>
   <br />
-  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/sequelizejs.svg"></code>
-  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/postgresql.svg"></code>
-  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/nodejs.svg"></code>
-  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/express.svg"></code>
-  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/github.svg"></code>
-  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/bootstrap.svg"></code>
+  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/sequelize.png"></code>
+  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/postgresql.png"></code>
+  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/nodejs.png"></code>
+  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/express.jpeg"></code>
+  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/github.jpg"></code>
+  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/bootstrap.png"></code>
   <br />
 </p>
 
@@ -32,7 +32,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 
 ## :paperclip: How to reach me:
 <span >
-<a href="https://www.linkedin.com/in/lina-mikaela-gutierrez-arribas/" ><img width="5%" src="https://github.com/linamikaela21/linamikaela21/blob/main/linkedin.svg"> &nbsp;
-<a href="mailto:mikaelagutierrezarribas@gmail.com" ><img width="5%" src="https://github.com/linamikaela21/linamikaela21/blob/main/gmail.svg">
+<a href="https://www.linkedin.com/in/lina-mikaela-gutierrez-arribas/" ><img width="5%" src="https://github.com/linamikaela21/linamikaela21/blob/main/linkedin.jpg"> &nbsp;
+<a href="mailto:mikaelagutierrezarribas@gmail.com" ><img width="5%" src="https://github.com/linamikaela21/linamikaela21/blob/main/gmail.png">
 </span>
 
