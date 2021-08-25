@@ -1,4 +1,6 @@
-<img width="100%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/portadaGit.mp4">
+<video width="100%" autoplay>
+  <source src="https://github.com/linamikaela21/linamikaela21/blob/main/images/portadaGit.mp4" type="video/mp4">
+</video>
 
 <h2 align="center">
 Full Stack Developer :heart: from Argentina to :earth_americas:
@@ -23,7 +25,7 @@ was working like a photographer in a cruse ship.. When pandemic started I change
   <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/sequelize.png"></code>
   <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/postgresql.png"></code>
   <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/css.png"></code>
-    <code><img width="13%" height="60px" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/react.png"></code>
+  <code><img width="13%"  src="https://github.com/linamikaela21/linamikaela21/blob/main/images/react.png"></code>
   <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/html.png"></code>
   <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/bootstrap.png"></code>
   <br />
