@@ -1,16 +1,39 @@
-### Hi there 👋
+![Hi, I'm Lina](https://github.com/linamikaela21/linamikaela21/blob/main/git.gif)
 
-<!--
-**linamikaela21/linamikaela21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+Full Stack Developer :heart: from Argentina to :earth_americas:
+</h2>
 
-Here are some ideas to get you started:
+&nbsp;&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :star: Languages and Tools:
+
+<p>
+  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/reactjs.svg"></code>
+  <code><img width="10%" height="50px" src="https://github.com/linamikaela21/linamikaela21/blob/main/redux.svg"></code>
+  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
+  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/react-native.svg"></code>
+  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/html.svg"></code>
+  <code><img width="10%" height="50px" src="https://github.com/linamikaela21/linamikaela21/blob/main/css.svg"></code>
+  <br />
+  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/sequelizejs.svg"></code>
+  <code><img width="10%" height="45" src="https://github.com/linamikaela21/linamikaela21/blob/main/postgresql.svg"></code>
+  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/nodejs.svg"></code>
+  <code><img  width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/expressjs.svg"></code>
+  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/express.svg"></code>
+  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/github.svg"></code>
+  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/bootstrap.svg"></code>
+  <br />
+</p>
+
+&nbsp;
+
+## :pushpin: My proyects
+
+
+## :paperclip: How to reach me:
+<span >
+<a href="https://www.linkedin.com/in/lina-mikaela-gutierrez-arribas/" ><img width="5%" src="https://github.com/linamikaela21/linamikaela21/blob/main/linkedin.svg"> &nbsp;
+<a href="mailto:mikaelagutierrezarribas@gmail.com" ><img width="5%" src="https://github.com/linamikaela21/linamikaela21/blob/main/gmail.svg">
+</span>
+
