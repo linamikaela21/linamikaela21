@@ -32,7 +32,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 
 ## :paperclip: How to reach me:
 <span >
-<a href="https://www.linkedin.com/in/lina-mikaela-gutierrez-arribas/" ><img width="5%" src="https://github.com/linamikaela21/linamikaela21/blob/main/linkedin.jpg"> &nbsp;
+<a href="https://www.linkedin.com/in/lina-mikaela-gutierrez-arribas/" ><img width="5%" src="https://github.com/linamikaela21/images/linamikaela21/blob/main/linkedin.jpg"> &nbsp;
 <a href="mailto:mikaelagutierrezarribas@gmail.com" ><img width="5%" src="https://github.com/linamikaela21/linamikaela21/blob/main/gmail.png">
 </span>
 
