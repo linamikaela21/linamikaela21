@@ -14,7 +14,7 @@ was working like a photographer in a cruse ship.. When pandemic started I change
 <p>
   <code><img width="12%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/react.png"></code>
   <code><img width="12%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/redux.png"></code>
-  <code><img width="12%" src="https://github.com/WanCirone/linamikaela21/blob/main/logos/images/javascript.png"></code>
+  <code><img width="12%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/javascript.png"></code>
   <code><img width="12%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/reactNative.png"></code>
   <code><img width="12%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/html.png"></code>
   <code><img width="12%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/css.png"></code>
