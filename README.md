@@ -10,14 +10,14 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 
 <p>
   <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/reactjs.svg"></code>
-  <code><img width="10%" height="50px" src="https://github.com/linamikaela21/linamikaela21/blob/main/redux.svg"></code>
-  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
+  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/redux.svg"></code>
+  <code><img width="10%" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
   <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/react-native.svg"></code>
   <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/html.svg"></code>
-  <code><img width="10%" height="50px" src="https://github.com/linamikaela21/linamikaela21/blob/main/css.svg"></code>
+  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/css.svg"></code>
   <br />
   <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/sequelizejs.svg"></code>
-  <code><img width="10%" height="45" src="https://github.com/linamikaela21/linamikaela21/blob/main/postgresql.svg"></code>
+  <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/postgresql.svg"></code>
   <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/nodejs.svg"></code>
   <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/express.svg"></code>
   <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/github.svg"></code>
