@@ -19,7 +19,6 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
   <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/sequelizejs.svg"></code>
   <code><img width="10%" height="45" src="https://github.com/linamikaela21/linamikaela21/blob/main/postgresql.svg"></code>
   <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/nodejs.svg"></code>
-  <code><img  width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/expressjs.svg"></code>
   <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/express.svg"></code>
   <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/github.svg"></code>
   <code><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/bootstrap.svg"></code>
