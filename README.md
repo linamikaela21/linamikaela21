@@ -1,5 +1,5 @@
 <video width="100%" autoplay>
-  <source src="https://github.com/linamikaela21/linamikaela21/blob/cc9857eb6f9f83d74b3773760ffb9a4b4d631b59/images/portadaGit.mp4" type="video/mp4">
+  <source src="https://github.com/linamikaela21/linamikaela21/blob/main/images/portada.mp4" type="video/mp4">
 </video>
 
 <h2 align="center">
