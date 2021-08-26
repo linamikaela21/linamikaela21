@@ -1,6 +1,4 @@
-<video width="100%" autoplay>
-  <source src="https://github.com/linamikaela21/linamikaela21/blob/main/images/portada.mp4" type="video/mp4">
-</video>
+![](https://github.com/linamikaela21/linamikaela21/blob/main/images/portada.gif)
 
 <h2 align="center">
 Full Stack Developer :heart: from Argentina to :earth_americas:
