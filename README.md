@@ -32,6 +32,18 @@ was working like a photographer in a cruse ship.. When pandemic started I change
 &nbsp;
 
 ## :pushpin: My proyects
+<h1>Proyecto Individual Food</h1>
+  <code><img width="25%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/PI_1.png"></code>
+  <code><img width="25%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/PI_2.png"></code>
+  <code><img width="25%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/PI_3.png"></code>
+  <code><img width="25%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/PI_4.png"></code>
+
+  <h1>Proyecto Individual Food</h1>
+  <code><img width="25%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/PG_1.png"></code>
+  <code><img width="25%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/PG_2.png"></code>
+  <code><img width="25%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/PG_3.png"></code>
+  <code><img width="25%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/PG_4.png"></code>
+
 
 ## :paperclip: How to reach me:
 
