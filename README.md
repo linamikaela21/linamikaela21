@@ -44,7 +44,7 @@ was working like a photographer in a cruse ship.. When pandemic started I change
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/PG_3.png"></code>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/PG_4.png"></code>
     <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/PG_5.png"></code>
-    <h4>Queres verlo completo ? </h4> <link to='https://noiloan.web.app/'>HACE CLICK ACA</link>
+    <h4>Queres verlo completo ? </h4> <link>https://noiloan.web.app/</link>
 
 
 ## :paperclip: How to reach me:
