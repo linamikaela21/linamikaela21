@@ -38,7 +38,7 @@ was working like a photographer in a cruse ship.. When pandemic started I change
   <code><img width="25%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/PI_3.png"></code>
   <code><img width="25%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/PI_4.png"></code>
 
-  <h1>Proyecto Grupal Food</h1>
+  <h1>Proyecto Grupal NOI LOAN</h1>
   <code><img width="25%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/PG_1.png"></code>
   <code><img width="25%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/PG_2.png"></code>
   <code><img width="25%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/PG_3.png"></code>
