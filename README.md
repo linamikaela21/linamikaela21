@@ -38,7 +38,8 @@ was working like a photographer in a cruse ship.. When pandemic started I change
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Photo-Ecommerce-Proyect/PG_4.png"></code>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Photo-Ecommerce-Proyect/PG_5.png"></code>
 
-  <h4>Queres verlo completo deployado ? | Do you want to see the deploy ? </h4> 
+  <h4>Queres verlo completo deployado ?</h4>
+  <h4>Do you want to see the deploy ?</h4> 
   <h4><link>https://noiloan.web.app/</link></h4> 
   <br />
 
@@ -50,7 +51,8 @@ was working like a photographer in a cruse ship.. When pandemic started I change
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/RickandMorty-Proyect/R&M_5.jpeg"></code>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/RickandMorty-Proyect/R&M_6.jpeg"></code>
         
-  <h4>Queres verlo completo deployado ? | Do you want to see the deploy ? </h4> 
+  <h4>Queres verlo completo deployado ?</h4>
+  <h4>Do you want to see the deploy ?</h4> 
   <h4><link>https://rick-and-morty-linamikaela21.vercel.app/</link></h4> 
   <br />
 
@@ -60,7 +62,8 @@ was working like a photographer in a cruse ship.. When pandemic started I change
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Food-Proyect/PI_3.png"></code>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Food-Proyect/PI_4.png"></code>
 
-  <h4>Queres verlo completo deployado ? | Do you want to see the deploy ? </h4> 
+  <h4>Queres verlo completo deployado ?</h4>
+  <h4>Do you want to see the deploy ?</h4> 
   <h4><link></link></h4> 
   <br />
 
