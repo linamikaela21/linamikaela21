@@ -31,19 +31,18 @@ was working like a photographer in a cruse ship.. When pandemic started I change
 &nbsp;
 
 ## :pushpin: My proyects
-  <h1>NOI LOAN (E-commerce) - Proyecto Grupal | NOI LOAN (E-commerce) - Grupal Proyect</h1>
+  <h1>NOI LOAN (E-commerce) - Proyecto Grupal</h1><h1>NOI LOAN (E-commerce) - Grupal Proyect</h1>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Photo-Ecommerce-Proyect/PG_1.png"></code>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Photo-Ecommerce-Proyect/PG_2.png"></code>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Photo-Ecommerce-Proyect/PG_3.png"></code>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Photo-Ecommerce-Proyect/PG_4.png"></code>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Photo-Ecommerce-Proyect/PG_5.png"></code>
 
-  <h4>Queres verlo completo deployado ?</h4>
-  <h4>Do you want to see the deploy ?</h4> 
+  <h4>Queres verlo completo deployado ? | Do you want to see the deploy ? </h4> 
   <h4><link>https://noiloan.web.app/</link></h4> 
   <br />
 
-  <h1>Rick and Morty - Proyecto Individual | Rick and Morty - Individual Proyect</h1>
+  <h1>Rick and Morty - Proyecto Individual</h1><h1>Rick and Morty - Individual Proyect</h1>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/RickandMorty-Proyect/R&M_1.jpeg"></code>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/RickandMorty-Proyect/R&M_2.jpeg"></code>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/RickandMorty-Proyect/R&M_3.jpeg"></code>
@@ -51,19 +50,17 @@ was working like a photographer in a cruse ship.. When pandemic started I change
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/RickandMorty-Proyect/R&M_5.jpeg"></code>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/RickandMorty-Proyect/R&M_6.jpeg"></code>
         
-  <h4>Queres verlo completo deployado ?</h4>
-  <h4>Do you want to see the deploy ?</h4> 
+  <h4>Queres verlo completo deployado ? | Do you want to see the deploy ? </h4> 
   <h4><link>https://rick-and-morty-linamikaela21.vercel.app/</link></h4> 
   <br />
 
-<h1>Food -Proyecto Individual | Food - Individual Proyect</h1>
+  <h1>Food -Proyecto Individual</h1><h1>Food - Individual Proyect</h1>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Food-Proyect/PI_1.png"></code>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Food-Proyect/PI_2.png"></code>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Food-Proyect/PI_3.png"></code>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Food-Proyect/PI_4.png"></code>
 
-  <h4>Queres verlo completo deployado ?</h4>
-  <h4>Do you want to see the deploy ?</h4> 
+  <h4>Queres verlo completo deployado ? | Do you want to see the deploy ? </h4> 
   <h4><link></link></h4> 
   <br />
 
