@@ -10,22 +10,44 @@ was working like a photographer in a cruse ship.. When pandemic started I change
 &nbsp;&nbsp;
 
 ## :star: Languages and Tools:
-
 <p>
-  <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/express.jpeg"></code>
-  <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/redux.png"></code>
-  <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/javascript.png"></code>
-  <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/reactNative.png"></code>
-  <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/github.jpg"></code>
-  <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/nodejs.png"></code>
-
+<h5>Frontend</h5>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/javascript.svg"></code>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/typescript.svg"></code>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/npm.svg"></code>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/html5.svg"></code>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/react.svg"></code>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/redux.svg"></code>
   <br />
-  <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/sequelize.png"></code>
-  <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/postgresql.png"></code>
-  <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/css.png"></code>
-  <code><img width="13%"  src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/react.png"></code>
-  <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/html.png"></code>
-  <code><img width="13%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/bootstrap.png"></code>
+  <h5>Desing</h5>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/bootstrap.svg"></code>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/css3.svg"></code>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/figma.svg"></code>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/materialui.svg"></code>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/photoshop.svg"></code>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/sass.svg"></code>
+  <br />
+  <h5>Backend and Database</h5>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/nodejs.svg"></code>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/express.svg"></code>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/mongodb.svg"></code>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/sequelize.svg"></code>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/postgresql.svg"></code>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/firebase.svg"></code>
+  <br />
+  <h5>Testing and Deploy</h5>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/jest.svg"></code>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/mocha.svg"></code>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/cypress.svg"></code>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/vercel.svg"></code>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/digitalocean.svg"></code>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/heroku.svg"></code>
+  <br />
+  <h5>Other</h5>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/github.svg"></code>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/jira.svg"></code>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/slack.svg"></code>
+  <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/scrum.png"></code>
   <br />
 </p>
 &nbsp;
@@ -66,7 +88,7 @@ was working like a photographer in a cruse ship.. When pandemic started I change
 
 ## :paperclip: How to reach me:
 
-<span >
-<a href="https://www.linkedin.com/in/lina-mikaela-gutierrez-arribas/" ><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/linkedin.png"> &nbsp;
-<a href="mailto:mikaelagutierrezarribas@gmail.com" ><img width="10%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/gmail.png">
+<span align="center">
+<a href="https://www.linkedin.com/in/lina-mikaela-gutierrez-arribas/" ><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/linkedin.png"> &nbsp;
+<a href="mailto:mikaelagutierrezarribas@gmail.com" ><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/gmail.png">
 </span>
