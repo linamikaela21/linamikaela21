@@ -11,7 +11,7 @@ was working like a photographer in a cruse ship.. When pandemic started I change
 
 ## :star: Languages and Tools:
 <p>
-<h5>Frontend</h5>
+<h4>Frontend</h4>
   <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/javascript.svg"></code>
   <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/typescript.svg"></code>
   <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/npm.svg"></code>
@@ -19,7 +19,7 @@ was working like a photographer in a cruse ship.. When pandemic started I change
   <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/react.svg"></code>
   <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/redux.svg"></code>
   <br />
-  <h5>Desing</h5>
+  <h4>Desing</h4>
   <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/bootstrap.svg"></code>
   <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/css3.svg"></code>
   <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/figma.svg"></code>
@@ -27,7 +27,7 @@ was working like a photographer in a cruse ship.. When pandemic started I change
   <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/photoshop.svg"></code>
   <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/sass.svg"></code>
   <br />
-  <h5>Backend and Database</h5>
+  <h4>Backend and Database</h4>
   <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/nodejs.svg"></code>
   <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/express.svg"></code>
   <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/mongodb.svg"></code>
@@ -35,7 +35,7 @@ was working like a photographer in a cruse ship.. When pandemic started I change
   <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/postgresql.svg"></code>
   <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/firebase.svg"></code>
   <br />
-  <h5>Testing and Deploy</h5>
+  <h4>Testing and Deploy</h4>
   <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/jest.svg"></code>
   <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/mocha.svg"></code>
   <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/cypress.svg"></code>
@@ -43,7 +43,7 @@ was working like a photographer in a cruse ship.. When pandemic started I change
   <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/digitalocean.svg"></code>
   <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/heroku.svg"></code>
   <br />
-  <h5>Other</h5>
+  <h4>Other</h4>
   <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/github.svg"></code>
   <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/jira.svg"></code>
   <code><img width="15%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Technologies/slack.svg"></code>
