@@ -7,8 +7,7 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 <h4>I was studying law, public accountancy, working and doing politic.. Everything in the same time till I needed a break and I
 was working like a photographer in a cruse ship.. When pandemic started I change  the course of my life and started with this beautifull passion "Programming". I think this knowledge let me work wherever I'm with my computer and internet and give me the posibility to keep travelling. My new passion is the key to conect my passion to make new stuff, work in team and also have freedom </h4>
 
-&nbsp;&nbsp;
-
+&nbsp;
 ## :star: Languages and Tools:
 <p>
 <h4>Frontend</h4>
@@ -74,6 +73,18 @@ was working like a photographer in a cruse ship.. When pandemic started I change
         
   <h4>Queres verlo completo deployado ? | Do you want to see the deploy ? </h4> 
   <h4><link>https://rick-and-morty-linamikaela21.vercel.app/</link></h4> 
+  <br />
+
+    <h2>E-commerce Payable - Proyecto Individual</h2><h2>E-commerce Payable</h2>
+  <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Ecommerce-Payable/EcommercePayable_1.jpeg"></code>
+  <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Ecommerce-Payable/EcommercePayable_2.jpeg"></code>
+  <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Ecommerce-Payable/EcommercePayable_3.jpeg"></code>
+  <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Ecommerce-Payable/EcommercePayable_4.jpeg"></code>
+  <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Ecommerce-Payable/EcommercePayable_5.jpeg"></code>
+  <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Ecommerce-Payable/EcommercePayable_6.jpeg"></code>
+        
+  <h4>Queres verlo completo deployado ? | Do you want to see the deploy ? </h4> 
+  <h4><link>https://ecommerce-payable.herokuapp.com/</link></h4> 
   <br />
 
   <h2>Food -Proyecto Individual</h2><h2>Food - Individual Proyect</h2>
