@@ -76,12 +76,12 @@ was working like a photographer in a cruse ship.. When pandemic started I change
   <br />
 
     <h2>E-commerce Payable - Proyecto Individual</h2><h2>E-commerce Payable</h2>
-  <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Ecommerce-Payable/EcommercePayable_1.jpeg"></code>
-  <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Ecommerce-Payable/EcommercePayable_2.jpeg"></code>
-  <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Ecommerce-Payable/EcommercePayable_3.jpeg"></code>
-  <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Ecommerce-Payable/EcommercePayable_4.jpeg"></code>
-  <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Ecommerce-Payable/EcommercePayable_5.jpeg"></code>
-  <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Ecommerce-Payable/EcommercePayable_6.jpeg"></code>
+  <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Ecommerce-Payable/EcommercePayable_1.png"></code>
+  <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Ecommerce-Payable/EcommercePayable_2.png"></code>
+  <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Ecommerce-Payable/EcommercePayable_3.png"></code>
+  <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Ecommerce-Payable/EcommercePayable_4.png"></code>
+  <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Ecommerce-Payable/EcommercePayable_5.png"></code>
+  <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Ecommerce-Payable/EcommercePayable_6.png"></code>
         
   <h4>Queres verlo completo deployado ? | Do you want to see the deploy ? </h4> 
   <h4><link>https://ecommerce-payable.herokuapp.com/</link></h4> 
