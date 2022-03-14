@@ -52,7 +52,8 @@ was working like a photographer in a cruse ship.. When pandemic started I change
 &nbsp;
 
 ## :pushpin: My proyects
-  <h2>NOI LOAN (E-commerce) - Proyecto Grupal</h2><h2>NOI LOAN (E-commerce) - Grupal Proyect</h2>
+  <h2>NOI LOAN (E-commerce) - Proyecto Grupal</h2>
+  <h2>NOI LOAN (E-commerce) - Grupal Proyect</h2>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Photo-Ecommerce-Proyect/PG_1.png"></code>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Photo-Ecommerce-Proyect/PG_2.png"></code>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Photo-Ecommerce-Proyect/PG_3.png"></code>
@@ -63,7 +64,8 @@ was working like a photographer in a cruse ship.. When pandemic started I change
   <h4><link>https://noiloan.web.app/</link></h4> 
   <br />
 
-  <h2>Rick and Morty - Proyecto Individual</h2><h2>Rick and Morty - Individual Proyect</h2>
+  <h2>Rick and Morty - Proyecto Individual</h2>
+  <h2>Rick and Morty - Individual Proyect</h2>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/RickandMorty-Proyect/R&M_1.jpeg"></code>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/RickandMorty-Proyect/R&M_2.jpeg"></code>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/RickandMorty-Proyect/R&M_3.jpeg"></code>
@@ -75,7 +77,8 @@ was working like a photographer in a cruse ship.. When pandemic started I change
   <h4><link>https://rick-and-morty-linamikaela21.vercel.app/</link></h4> 
   <br />
 
-    <h2>E-commerce Payable - Proyecto Individual</h2><h2>E-commerce Payable</h2>
+  <h2>E-commerce Payable - Proyecto Individual</h2>
+  <h2>E-commerce Payable - Individual Proyect</h2>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Ecommerce-Payable/EcommercePayable_1.png"></code>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Ecommerce-Payable/EcommercePayable_2.png"></code>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Ecommerce-Payable/EcommercePayable_3.png"></code>
@@ -87,7 +90,8 @@ was working like a photographer in a cruse ship.. When pandemic started I change
   <h4><link>https://ecommerce-payable.herokuapp.com/</link></h4> 
   <br />
 
-  <h2>Food -Proyecto Individual</h2><h2>Food - Individual Proyect</h2>
+  <h2>Food -Proyecto Individual</h2>
+  <h2>Food - Individual Proyect</h2>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Food-Proyect/PI_1.png"></code>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Food-Proyect/PI_2.png"></code>
   <code><img width="30%" src="https://github.com/linamikaela21/linamikaela21/blob/main/images/Food-Proyect/PI_3.png"></code>
