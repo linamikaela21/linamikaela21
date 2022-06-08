@@ -106,7 +106,7 @@ was working like a photographer in a cruse ship.. When pandemic started I change
 ## :paperclip: How to reach me:
 
 <div>
-<a href="https://linamikaela21.github.io/lali-porfolio/" >
+<a href="https://linamikaela21.github.io/lali-portfolio/" >
 <img title="Portfolio" alt="Portfolio" width="100px" height="100px" style={"margin": "25px"} src ="https://github.com/linamikaela21/linamikaela21/blob/main/images/socialMedia/portfolio.png"> &nbsp;
 <a title="Linkedin" alt="Linkedin" href="https://www.linkedin.com/in/lina-mikaela-gutierrez-arribas/" >
 <img width="100px" height="100px" style={"margin": "25px"} src ="https://github.com/linamikaela21/linamikaela21/blob/main/images/socialMedia/linkedin.png"> &nbsp;
