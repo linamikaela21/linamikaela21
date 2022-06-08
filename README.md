@@ -106,12 +106,12 @@ was working like a photographer in a cruse ship.. When pandemic started I change
 ## :paperclip: How to reach me:
 
 <div>
-<a href="https://linamikaela21.github.io/lali-portfolio/" >
+<a href="https://linamikaela21.github.io/lali-portfolio/" target="_blank">
 <img title="Portfolio" alt="Portfolio" width="100px" height="100px" style={"margin": "25px"} src ="https://github.com/linamikaela21/linamikaela21/blob/main/images/socialMedia/portfolio.png"> &nbsp;
-<a title="Linkedin" alt="Linkedin" href="https://www.linkedin.com/in/lina-mikaela-gutierrez-arribas/" >
+<a title="Linkedin" alt="Linkedin" href="https://www.linkedin.com/in/lina-mikaela-gutierrez-arribas/" target="_blank">
 <img width="100px" height="100px" style={"margin": "25px"} src ="https://github.com/linamikaela21/linamikaela21/blob/main/images/socialMedia/linkedin.png"> &nbsp;
 <a title="Gmail" alt="Gmail" href="mailto:mikaelagutierrezarribas@gmail.com">
 <img width="100px" height="100px" style={"margin": "25px"} src ="https://github.com/linamikaela21/linamikaela21/blob/main/images/socialMedia/gmail.png">
-<a title="CV" alt="CV" href="https://t.ly/CV_Lina_Gutierrez_Arribas-FullStack">
+<a title="CV" alt="CV" href="[https://t.ly/CV_Lina_Gutierrez_Arribas-FullStack](https://www.canva.com/design/DAEoDJdspRQ/M45M6SrgiFTRWZHliUCBvQ/view?utm_content=DAEoDJdspRQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)" target="_blank">
 <img width="100px" height="100px" style={"margin": "25px"} src ="https://github.com/linamikaela21/linamikaela21/blob/main/images/socialMedia/cv.png">
 </div>
