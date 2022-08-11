@@ -112,6 +112,6 @@ was working like a photographer in a cruse ship.. When pandemic started I change
 <img width="100px" height="100px" style={"margin": "25px"} src ="https://github.com/linamikaela21/linamikaela21/blob/main/images/socialMedia/linkedin.png"> &nbsp;
 <a title="Gmail" alt="Gmail" href="mailto:mikaelagutierrezarribas@gmail.com">
 <img width="100px" height="100px" style={"margin": "25px"} src ="https://github.com/linamikaela21/linamikaela21/blob/main/images/socialMedia/gmail.png">
-<a title="CV" alt="CV" href="https://t.ly/CV_Lina_Gutierrez_Arribas-FullStack">
+<a title="CV" alt="CV" href="https://www.canva.com/design/DAEoDJdspRQ/M45M6SrgiFTRWZHliUCBvQ/view?utm_content=DAEoDJdspRQ&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu">
 <img width="100px" height="100px" style={"margin": "25px"} src ="https://github.com/linamikaela21/linamikaela21/blob/main/images/socialMedia/cv.png">
 </div>
